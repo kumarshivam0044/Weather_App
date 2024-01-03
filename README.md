@@ -7,7 +7,7 @@ Overview :
 🔍 You can search for Weather conditions in different cities by simply typing in the City name.
 
 App Features:----
-🌤️ Provides detailed weather information Including temperature (max & min), Humidity, Wind speed, Sunrise, Sunset, and More!!!
+🌤️ Provides detailed weather information Including temperature (max & min), Humidity, Wind speed, Sunrise, Sunset, and More!!
 🌈 Background changes dynamically based on the weather condition, making it Visually attractive...
 
 Tech Stack:
