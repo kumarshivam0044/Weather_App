@@ -18,7 +18,7 @@ Tech Stack:
 🎨 Lottie for dynamic animations
 ⚙️ SplashAPI for Splash Screen
 
-Github Repo :
+
 
 I've built a Weather App that aims to  Checking the Weather using OpenweatherMap's API.
 In this App We Use  SplashScreenAPI , Data Binding Features , XML , Constrain Layout , Linear Layout, Retrofit dependencies , lottie animation etc...
